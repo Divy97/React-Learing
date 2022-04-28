@@ -13,15 +13,19 @@ import React from 'react';
 // import MouseContainer from './Components/UseEffect/MouseContainer';
 // import IntervalCounter from './Components/UseEffect/IntervalCounter';
 
+import DataFetching from './Components/UseEffect/DataFetch/DataFetching';
 
 export default function App() {
   return (
     <div>
 
-    {/* <HookEffCounter/> */}
-    {/* <HookMouse /> */}
-    {/* <MouseContainer /> */}
-    {/* <IntervalCounter /> */}
+     {/* UseEffect 
+     <HookEffCounter/> 
+     <HookMouse /> 
+     <MouseContainer /> 
+     <IntervalCounter />  */}
+
+      <DataFetching/>
 
       {/* UseState 
       <HookCounter />
