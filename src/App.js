@@ -7,12 +7,14 @@ import React from 'react';
 // import HookCounterFour from './Components/UseState/HookCounterFour';
 
 //UseEffect
-import HookEffCounter from './Components/UseEffect/HookEffCounter';
+// import HookEffCounter from './Components/UseEffect/HookEffCounter';
+import HookMouse from './Components/UseEffect/HookMouse';
 export default function App() {
   return (
     <div>
 
-    <HookEffCounter/>
+    {/* <HookEffCounter/> */}
+    <HookMouse />
 
 
       {/* UseState 
