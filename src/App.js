@@ -10,7 +10,9 @@ import React from 'react';
 
 // import HookEffCounter from './Components/UseEffect/HookEffCounter';
 // import HookMouse from './Components/UseEffect/HookMouse';
-import MouseContainer from './Components/UseEffect/MouseContainer';
+// import MouseContainer from './Components/UseEffect/MouseContainer';
+// import IntervalCounter from './Components/UseEffect/IntervalCounter';
+
 
 export default function App() {
   return (
@@ -18,7 +20,8 @@ export default function App() {
 
     {/* <HookEffCounter/> */}
     {/* <HookMouse /> */}
-    <MouseContainer />
+    {/* <MouseContainer /> */}
+    {/* <IntervalCounter /> */}
 
       {/* UseState 
       <HookCounter />
